@@ -1,0 +1,6 @@
+{
+	"name": "synced-timer",
+	"tree": {
+		"$path": "src/"
+	}
+}

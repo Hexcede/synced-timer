@@ -1,0 +1,12 @@
+{
+	"name": "synced-timer",
+	"tree": {
+		"$className": "Folder",
+		"Packages": {
+			"$path": "Packages/",
+			"SyncedTimer": {
+				"$path": "src/"
+			}
+		}
+	}
+}
